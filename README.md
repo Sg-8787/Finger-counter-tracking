@@ -18,5 +18,6 @@ This project detects hands through the webcam and counts fingers with high accur
 
 *CVZone (computer vision)- Simplifies hand tracking + finger counting 
 
-# Language & Version-   PYTHON 3.10.0
+# Language & Version-
+PYTHON (3.10.0)
 
