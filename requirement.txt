@@ -1,0 +1,4 @@
+# These are some python external libraries(to be installed)
+#opencv-python
+#cvzone
+#mediapipe
