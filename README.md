@@ -11,11 +11,12 @@ This project detects hands through the webcam and counts fingers with high accur
 - Lightweight & Fast (runs on CPU)
 
 
-# Tech STACK:
 # Library & Purpose 
 *OpenCV (opencv-python) - Camera access, frame display, image processing 
+
 *MediaPipe - Hand landmark detection (21 keypoints) 
+
 *CVZone (computer vision)- Simplifies hand tracking + finger counting 
 
-# Language & Version- PYTHON 3.10.0
+# Language & Version-   PYTHON 3.10.0
 
